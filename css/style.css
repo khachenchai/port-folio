@@ -79,11 +79,6 @@ h1 {
     color: black;
 }
 
-.details p span ul li {
-    padding-left: 2%;
-    font-size: 1.3em;
-    font-weight: bold;
-    /* text-align: center; */
-    color: black;
-    list-style: none;
+.details p a {
+    color: #ff9d00
 }
