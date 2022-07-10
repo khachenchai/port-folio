@@ -95,3 +95,8 @@ h1 {
     /* margin-right: 200px; */
     border-radius: 5%;
 }
+
+#spacer {
+    height: 20px;
+    /* border: 1px solid red; */
+}
